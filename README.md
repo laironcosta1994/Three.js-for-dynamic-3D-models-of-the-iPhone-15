@@ -40,7 +40,3 @@ NotIphone is a sophisticated clone of Apple's iPhone 15 Pro website, crafted to 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
----
-
-This README file should provide a clear and professional overview of your NotIphone project, highlighting its key features, technologies used, and providing guidance on how to get started.
