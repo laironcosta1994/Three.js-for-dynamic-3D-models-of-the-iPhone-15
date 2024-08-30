@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
+import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
 import { hightlightsSlides } from "../constants";
@@ -10,11 +10,7 @@ import { pauseImg, playImg, replayImg } from "../utils";
 gsap.registerPlugin(ScrollTrigger);
 
 const VideoCarousel = () => {
-  const videoRef = useRef([]);
-  const videoSpanRef = useRef([]);
-  const videoDivRef = useRef([]);
-
-  // video and indicator
+  const [loadedData, setLoadedData] = useState([]);
   const [video, setVideo] = useState({
     isEnd: false,
     startPlay: false,
@@ -23,18 +19,19 @@ const VideoCarousel = () => {
     isPlaying: false,
   });
 
-  const [loadedData, setLoadedData] = useState([]);
   const { isEnd, isLastVideo, startPlay, videoId, isPlaying } = video;
 
+  const videoRef = useRef([]);
+  const videoSpanRef = useRef([]);
+  const videoDivRef = useRef([]);
+
   useGSAP(() => {
-    // slider animation to move the video out of the screen and bring the next video in
     gsap.to("#slider", {
       transform: `translateX(${-100 * videoId}%)`,
       duration: 2,
       ease: "power2.inOut",
     });
 
-    // video animation to play the video when it is in the view
     gsap.to("#video", {
       scrollTrigger: {
         trigger: "#video",
@@ -127,7 +124,6 @@ const VideoCarousel = () => {
     }
   }, [startPlay, videoId, isPlaying, loadedData]);
 
-  // vd id is the id for every video until id becomes number 3
   const handleProcess = (type, i) => {
     switch (type) {
       case "video-end":
