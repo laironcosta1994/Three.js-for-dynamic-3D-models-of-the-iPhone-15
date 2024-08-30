@@ -1,6 +1,6 @@
 # NotIphone: iPhone 15 Pro Clone
 
-![NotIphone - Landing Page]()
+![NotIphone - Landing Page](https://media.licdn.com/dms/image/v2/D4E22AQHUCdVz8RLQcA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028844545?e=1727913600&v=beta&t=Fth-ANG6e551zjAR7dagKOh4ezfRLJ_Bh2k7hISZAkk)
 
 ## Introduction
 
@@ -20,15 +20,20 @@ NotIphone is a sophisticated clone of Apple's iPhone 15 Pro website, crafted to 
 
 ### 3D Model Display
 
-![3D Model]()
+![3D Model](https://media.licdn.com/dms/image/v2/D4E22AQFxaeU5-KHQjQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028843783?e=1727913600&v=beta&t=bCPTVqqAXU2RJzaFJQdS5aUOu-widN6emUvUiXVUiaM)
+![3D Model02](https://media.licdn.com/dms/image/v2/D4E22AQGiV1Kfdxb6Xw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028843848?e=1727913600&v=beta&t=Slz47B-8PywMlSLNm6iVqOYAoLm-jx8dMenN5aRT1bo)
 
 ### GSAP Animations
 
-![GSAP Animation]()
+![GSAP Animation](https://media.licdn.com/dms/image/v2/D4E22AQHk5VeDqHu_7w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028845353?e=1727913600&v=beta&t=_bvirgOn6HT7qLWAeqFR_KgCDce5lrZu6EU9OVcmdO0)
+![GSAP Animation02](https://media.licdn.com/dms/image/v2/D4E22AQGgxXau5YDaTA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028845507?e=1727913600&v=beta&t=Wj5kGCOiZct6JRG23HGUa7GB3iU0EP1FyE4HT7wuwVo)
 
 ### Responsive Design
 
-![Responsive Design]()
+![Responsive Design](https://media.licdn.com/dms/image/v2/D4E22AQFxO57oq8tGgA/feedshare-shrink_800/feedshare-shrink_800/0/1725028843181?e=1727913600&v=beta&t=UBvRz_HvUHcn41V44YQt2oT5fWHLmCBnp3ARPIakVV0)
+![Responsive Design02](https://media.licdn.com/dms/image/v2/D4E22AQFo4Xj4ecrJFg/feedshare-shrink_800/feedshare-shrink_800/0/1725028843071?e=1727913600&v=beta&t=h7bYMK2aDJrxMIQ595T8hGGqEytzsW9N72Put9yv5Hc)
+![Responsive Design03](https://media.licdn.com/dms/image/v2/D4E22AQETXUqvtbtzDA/feedshare-shrink_800/feedshare-shrink_800/0/1725028844888?e=1727913600&v=beta&t=3nsSGf7vHN1PiKSE5zNQqUdvILEOPBe76ZxnCHne8zU)
+![Responsive Design04](https://media.licdn.com/dms/image/v2/D4E22AQHQeU9v6-4FrA/feedshare-shrink_800/feedshare-shrink_800/0/1725028843549?e=1727913600&v=beta&t=U9Qycq3cCB79rKquZlebNbnmfxsInQZ9OxIUl4WeBOY)
 
 ## Features
 
