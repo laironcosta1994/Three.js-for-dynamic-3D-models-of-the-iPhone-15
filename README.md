@@ -42,6 +42,8 @@ NotIphone is a sophisticated clone of Apple's iPhone 15 Pro website, crafted to 
 - **Responsive Layout**: Ensure a seamless experience across all devices with a mobile-first design approach.
 - **Optimized Performance**: Built with Vite for fast development and production builds.
 
+---
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
